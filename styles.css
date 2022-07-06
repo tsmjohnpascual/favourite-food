@@ -1,0 +1,32 @@
+a {
+    margin: 3%;
+    text-decoration: none;
+    font-size: 2rem;
+    font-family: 'Gulzar', serif;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 7rem;
+    padding-left: 10%;
+}
+
+body {
+    background-image: url("./images/food.png");
+}
+
+#recipe-background {
+    background-image: url("./images/recipe.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card {
+    opacity: 70%;
+    height: 400px;
+    width: 300px;
+}
+
+div {
+    text-align: center;
+}
